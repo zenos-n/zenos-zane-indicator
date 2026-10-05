@@ -1,0 +1,10 @@
+{
+  "uuid": "zane@neg-zero.com",
+  "name": "Zane AI Overlay",
+  "description": "Wayland-native frontend for Zane Agent",
+  "shell-version": [
+
+    "49"
+  ],
+  "url": ""
+}
